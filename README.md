@@ -1,11 +1,11 @@
 ## Hi there 👋 
 
-😁je suis ✨Rudolph ATTISSO✨
-💻Je suis passionné par l'informatique et j'ai décidé de me recocnvertir dans ce domaine.✨
-📝Actuellement en formation pour devenir Concepteur/Developpeur d'application à l' Afpa de Bègles.
-📖Je suis à la recherche d'un stage afin d'assoire mes aquis de formation dans un contexe professionnel.
-🕰️Ce stage s'étend sur 10 semaines (6/1/25 au 28/3/25) et est non rémunéré| date de fin de formation 16-05-2025.
-🎹Je suis producteur de music amateur | 🚲 j'aime m'évader à vélo | 🕹️ Jeux vidéos |⚽ J'aime jouer au Fooball.
+-😁je suis ✨Rudolph ATTISSO✨
+-💻Je suis passionné par l'informatique et j'ai décidé de me recocnvertir dans ce domaine.✨
+-📝Actuellement en formation pour devenir Concepteur/Developpeur d'application à l' Afpa de Bègles.
+-📖Je suis à la recherche d'un stage afin d'assoire mes aquis de formation dans un contexe professionnel.
+-🕰️Ce stage s'étend sur 10 semaines (6/1/25 au 28/3/25) et est non rémunéré| date de fin de formation 16-05-2025.
+-🎹Je suis producteur de music amateur | 🚲 j'aime m'évader à vélo | 🕹️ Jeux vidéos |⚽ J'aime jouer au Fooball.
 
 
 <!--
