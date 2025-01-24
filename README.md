@@ -7,7 +7,8 @@
 - 🕰️Ce stage s'étend sur 10 semaines (6/1/25 au 04/04/25) et est non rémunéré| date de fin de formation 16-05-2025.
 - 🎹Je suis producteur de music amateur | 🚲 j'aime m'évader à vélo | 🕹️ Jeux vidéos |⚽ J'aime jouer au Fooball.
 
-
+Pour en savoir plus sur mon parcours précédent👇
+https://sites.google.com/d/1fuGD0-YVhX3cboZMp22cdWe34DQ1LRK7/p/1-kqMJrIG6K3rQziMSxwhEXFvTXvjqGDc/edit?pli=1
 <!--
 **rudolphattisso/rudolphattisso**  est ✨ en Formation Concepteur developpeur d'application✨ 
 
